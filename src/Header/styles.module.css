@@ -1,0 +1,26 @@
+.header {
+  text-align: left;
+}
+
+.title {
+  color: #db7793;
+  font-size: 20px;
+  padding-bottom: 24px;
+}
+
+.hr {
+  margin: 14px 0;
+  color: #f5f5f5;
+}
+
+.title > span {
+  font-weight: bold;
+}
+
+.reminder {
+  background-color: #f9f2f4;
+  color: #db7793;
+  padding: 4px;
+  font-weight: bold;
+  font-size: 14px;
+}

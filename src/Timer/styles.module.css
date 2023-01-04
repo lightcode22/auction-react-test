@@ -1,0 +1,17 @@
+.timer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  position: relative;
+  width: 240px;
+
+  padding: 24px;
+  background-color: #f2dede;
+  color: #b45c5a;
+  font-weight: bold;
+}
+
+.timeWrapper {
+  padding-right: 8px;
+}

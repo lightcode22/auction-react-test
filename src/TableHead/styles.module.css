@@ -1,0 +1,13 @@
+.tableHead {
+  padding: 24px 0;
+}
+
+.staticHeader {
+  text-transform: uppercase;
+}
+
+.tableCell {
+  flex: 1 0 0;
+  color: #4585bc;
+  font-weight: bold;
+}

@@ -1,0 +1,17 @@
+.row {
+  width: 100%;
+  color: blueviolet;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 4px;
+}
+
+.even {
+  background-color: #f4f4f4;
+}
+
+.odd {
+  background-color: #fff;
+}

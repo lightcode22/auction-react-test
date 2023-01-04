@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Участник №1",
+    "company": "Initech",
+    "measures": "",
+    "deadline": "80",
+    "warranty": "24",
+    "payment": "30%",
+    "price": [3700000, -25000, 2475000]
+  },
+  {
+    "id": 2,
+    "name": "Участник №2",
+    "company": "Massive Dynamic",
+    "measures": "",
+    "deadline": "90",
+    "warranty": "100",
+    "payment": "30%",
+    "price": [3200000, -25000, 2475000]
+  },
+  {
+    "id": 3,
+    "name": "Участник №3",
+    "company": "Acme Corporation",
+    "measures": "",
+    "deadline": "75",
+    "warranty": "22",
+    "payment": "60%",
+    "price": [2800000, -25000, 2475000]
+  },
+  {
+    "id": 4,
+    "name": "Участник №4",
+    "company": "Globex Corporation",
+    "measures": "",
+    "deadline": "120",
+    "warranty": "36",
+    "payment": "50%",
+    "price": [2500000, -25000, 2475000]
+  }
+]
